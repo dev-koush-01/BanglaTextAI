@@ -1,12 +1,38 @@
 # BanglaTextAI
 
-A React and Flask-based application for English-Bengali translation with emotion detection, built for Hack4Bangal hackathon.
+A React and Flask-based application for English-Bengali translation with emotion detection, built for Hack4Bengal hackathon.
 
-## Features
+## Features & Screenshots
 - Real-time English-Bengali translation
 - Facial emotion detection with ML
 - Interactive UI with animations
 - Live camera integration for face detection
+
+### Application Flow
+1. **Landing Page**
+![Landing Page](./assets/landingPage.png)
+*Main interface of BanglaTextAI*
+
+2. **Getting Started**
+![Getting Started](./assets/GettingStarted.png)
+*Initial setup and instructions*
+
+3. **Website Overview**
+![Website Overview](./assets/website.png)
+*Complete application interface*
+
+### Translation Features
+1. **English to Bengali**
+![English to Bengali](./assets/English2Bangla.png)
+*Translate from English to Bengali*
+
+2. **Bengali to English**
+![Bengali to English](./assets/Bangla2English.png)
+*Translate from Bengali to English*
+
+### Emotion Detection
+![Emotion Detection](./assets/EmotionDetection.png)
+*Real-time facial emotion recognition*
 
 ## Tech Stack
 - Frontend: React.js
